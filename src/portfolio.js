@@ -19,7 +19,7 @@ const socialMediaLinks = {
 
   github: "https://github.com/muhamood",
   linkedin: "https://www.linkedin.com/in/muhamood-nsubuga/",
-  gmail: "nmuhamood30@gmail.com",
+  gmail: "nmuhamood3@gmail.com",
   gitlab: "https://gitlab.com/nmuhamood3",
 };
 
